@@ -8,5 +8,4 @@ let sum = function(para1) {
     }
     return a;
 }
-
 sum(10)(20)(30)
